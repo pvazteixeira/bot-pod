@@ -1,3 +1,6 @@
 [submodule "libbot2"]
 	path = libbot2
 	url = https://github.com/libbot2/libbot2.git
+[submodule "lcm-pod"]
+	path = lcm-pod
+	url = https://github.com/RobotLocomotion/lcm-pod.git
